@@ -1,6 +1,3 @@
 total ojbk
-<<<<<<< HEAD
 Creating a  new branch is fast and simple  
-=======
-Creating a  new branch is fast and simple
->>>>>>> feature1
+
